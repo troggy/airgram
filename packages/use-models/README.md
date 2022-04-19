@@ -1,3 +1,3 @@
 # Models in Airgram
 
-See [details](https://airgram.io/guides/advanced-topics/use-models).
+See [details](https://airgram.netlify.app/guides/advanced-topics/use-models).
